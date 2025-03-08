@@ -4,10 +4,10 @@
 
 # Sketchware Pro
 [![GitHub contributors](https://img.shields.io/github/contributors/AbdurRakibTalukder0/Windows11)](https://github.com/AbdurRakibTalukder0/Windows11/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Sketchware-Pro/Sketchware-Pro)](https://github.com/Sketchware-Pro/Sketchware-Pro/commits/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/AbdurRakibTalukder0/Windows11)](https://github.com/AbdurRakibTalukder0/Windows11/commits/)
 [![Discord server stats](https://img.shields.io/discord/790686719753846785)](http://discord.gg/kq39yhT4rX)
-[![Total downloads](https://img.shields.io/github/downloads/Sketchware-Pro/Sketchware-Pro/total)](https://github.com/Sketchware-Pro/Sketchware-Pro/releases)
-[![Repository Size](https://img.shields.io/github/repo-size/Sketchware-Pro/Sketchware-Pro)](https://github.com/Sketchware-Pro/Sketchware-Pro)
+[![Total downloads](https://img.shields.io/github/downloads/AbdurRakibTalukder0/Windows11/total)](https://github.com/AbdurRakibTalukder0/Windows11/releases)
+[![Repository Size](https://img.shields.io/github/repo-size/AbdurRakibTalukder0/Windows11)](https://github.com/AbdurRakibTalukder0/Windows11)
 
 Welcome to Sketchware Pro! Here you'll find the source code of many classes in Sketchware Pro and, most importantly, the place to contribute to Sketchware Pro.
 
