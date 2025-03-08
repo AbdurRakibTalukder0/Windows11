@@ -2,10 +2,9 @@
   <img src="assets/Sketchware-Pro.png" style="width: 30%;" />
 </p>
 
-# Sketchware Pro
+# Windows 11 Launcher
 [![GitHub contributors](https://img.shields.io/github/contributors/AbdurRakibTalukder0/Windows11)](https://github.com/AbdurRakibTalukder0/Windows11/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/AbdurRakibTalukder0/Windows11)](https://github.com/AbdurRakibTalukder0/Windows11/commits/)
-[![Discord server stats](https://img.shields.io/discord/790686719753846785)](http://discord.gg/kq39yhT4rX)
 [![Total downloads](https://img.shields.io/github/downloads/AbdurRakibTalukder0/Windows11/total)](https://github.com/AbdurRakibTalukder0/Windows11/releases)
 [![Repository Size](https://img.shields.io/github/repo-size/AbdurRakibTalukder0/Windows11)](https://github.com/AbdurRakibTalukder0/Windows11)
 
