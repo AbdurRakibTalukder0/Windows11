@@ -8,7 +8,7 @@
 [![Total downloads](https://img.shields.io/github/downloads/AbdurRakibTalukder0/Windows11/total)](https://github.com/AbdurRakibTalukder0/Windows11/releases)
 [![Repository Size](https://img.shields.io/github/repo-size/AbdurRakibTalukder0/Windows11)](https://github.com/AbdurRakibTalukder0/Windows11)
 
-Welcome to Sketchware Pro! Here you'll find the source code of many classes in Sketchware Pro and, most importantly, the place to contribute to Sketchware Pro.
+Welcome to Windows 11 Launcher! Here you'll find the source code of many classes in Windows 11 Launcher and, most importantly, the place to contribute to Windows 11 Launcher.
 
 ## Building the App
 To build the app, you must use Gradle. It's highly recommended to use Android Studio for the best experience.
