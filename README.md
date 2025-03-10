@@ -44,7 +44,7 @@ To select the appropriate **build variant** in **Android Studio**, use the **Bui
 | `a.a.a.tq`            | Handles compilation dialogs                   |
 | `a.a.a.yq`            | Organizes project file paths                  |
 
-> ** Tip:** Check the `mod` package, which contains the majority of contributor modifications.
+> **Tip:** Check the `mod` package, which contains the majority of contributor modifications.
 
 ##  Contributing
 
