@@ -82,8 +82,8 @@ Want to chat with us, discuss changes, or just hang out? We have a Discord serve
 
 ## Disclaimer
 
-This mod was not created for any harmful purposes, such as harming Sketchware; quite the opposite, actually. It was made to keep Sketchware alive by the community for the community. Please use it at your own discretion and consider becoming a Patreon backer to support the developers. Unfortunately, other ways to support them are not working anymore, so Patreon is the only available option currently. You can find their Patreon page [here](https://www.patreon.com/sketchware).
+This mod was not created for any harmful purposes, such as harming Hyper Droid - PC Launcher; quite the opposite, actually. It was made to enhance the user experience and provide a **Windows 11-style desktop interface on Android**. This project is intended **for educational and customization purposes only**. Please use it at your own discretion.  
 
-We do NOT permit publishing Sketchware Pro as it is, or with modifications, on Play Store or on any other app store. Keep in mind that this project is still a mod. Unauthorized modding of apps is considered illegal and we discourage such behavior.
+We do **NOT** permit publishing **Windows 11 Launcher (Hyper Droid - Project This PC)** as it is, or with modifications, on the **Google Play Store** or any other app store without proper authorization. This project remains a **mod** of the original **Hyper Droid PC Launcher** by **Binary Inc.**, and unauthorized redistribution may violate policies.  
 
-We love Sketchware very much and are grateful to Sketchware's developers for creating such an amazing app. However, we haven't received updates for a long time. That's why we decided to keep Sketchware alive by creating this mod, and it's completely free. We don't demand any money :)
+We deeply appreciate **Binary Inc.** for developing such an amazing launcher. However, since the original version lacks some features and optimizations, this mod was created to improve functionality and keep the **PC-like experience alive on Android**. This project is **completely free**, and we do not demand any money :)
