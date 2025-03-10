@@ -22,14 +22,12 @@ To build this app, **Gradle** is required. It is highly recommended to use **And
 There are two build variants with different features:  
 
 - **`full:`**  
-  √ Supports **AAB exports**  
-  √ Can compile **Java 1.8, 1.9, 10, and 11**  
-  ! Works only on **Android 8.0 (Oreo) and above**  
+    
 
 - **`mini:`**  
-  × **Cannot** produce AABs  
-  √ Supports **Java 1.7**  
-  √ Works on **Android 5.0 (Lollipop) and above**  
+  × Control center  
+  × App Icon support  
+  × Resolution Auto 
 
 To select the appropriate **build variant** in **Android Studio**, use the **Build Variants** tab or run the **Gradle** build command.
 
