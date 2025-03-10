@@ -20,18 +20,18 @@ To build this app, **Gradle** is required. It is highly recommended to use **And
 There are two build variants with different features:  
 
 - **`mini 1.0:`**  
-  ✅ Supports **AAB exports**  
-  ✅ Can compile **Java 1.8, 1.9, 10, and 11**  
-  ❗ Works only on **Android 8.0 (Oreo) and above**  
+  √ Supports **AAB exports**  
+  √ Can compile **Java 1.8, 1.9, 10, and 11**  
+  ! Works only on **Android 8.0 (Oreo) and above**  
 
 - **`minApi21:`**  
-  ❌ **Cannot** produce AABs  
-  ✅ Supports **Java 1.7**  
-  ✅ Works on **Android 5.0 (Lollipop) and above**  
+  × **Cannot** produce AABs  
+  √ Supports **Java 1.7**  
+  √ Works on **Android 5.0 (Lollipop) and above**  
 
 To select the appropriate **build variant** in **Android Studio**, use the **Build Variants** tab or run the **Gradle** build command.
 
-## 📂 Source Code Map
+##  Source Code Map
 
 | Class                  | Role                                          |
 |------------------------|----------------------------------------------|
@@ -44,9 +44,9 @@ To select the appropriate **build variant** in **Android Studio**, use the **Bui
 | `a.a.a.tq`            | Handles compilation dialogs                   |
 | `a.a.a.yq`            | Organizes project file paths                  |
 
-> **💡 Tip:** Check the `mod` package, which contains the majority of contributor modifications.
+> ** Tip:** Check the `mod` package, which contains the majority of contributor modifications.
 
-## 🚀 Contributing
+##  Contributing
 
 We welcome contributions of any size, whether they are **new features, bug fixes, or UI improvements**. To contribute, follow these steps:
 
@@ -60,7 +60,7 @@ All contributions are thoroughly reviewed to ensure **stability and compatibilit
 
 ---
 
-### ✅ Commit Message Guidelines
+###  Commit Message Guidelines
 When making changes, please use **clear and structured commit messages**. Here’s a guideline:
 
 - **`feat:`** For new features or improvements.
@@ -71,14 +71,14 @@ When making changes, please use **clear and structured commit messages**. Here�
 - **`docs:`** For documentation updates.
 - **`chore:`** For general maintenance tasks.
 
-#### 📌 Examples:
+####  Examples:
 - `feat: Added dark mode toggle`
 - `fix: Fixed crash on certain devices`
 - `refactor: Optimized taskbar performance`
 - `style: Improved Start Menu UI`
 - `docs: Updated README with new features`
 
-> **⚠️ Important:**  
+> **⚠ Important:**  
 > - Keep new features within the **Hyper Droid - Project This PC** package to maintain code organization.  
 > - Although Kotlin is supported, please write changes **in Java** unless absolutely necessary.  
 
@@ -89,11 +89,6 @@ Your contributions help **enhance the Windows 11 experience on Android**.
 Accepted contributors will be credited in the **About section** of the launcher. 🎉  
 
 ---
-## Discord
-
-Want to chat with us, discuss changes, or just hang out? We have a Discord server just for that.
-
-[![Join our Discord server!](https://invidget.switchblade.xyz/kq39yhT4rX)](http://discord.gg/kq39yhT4rX)
 
 ## Disclaimer
 
