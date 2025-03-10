@@ -46,45 +46,49 @@ To select the appropriate **build variant** in **Android Studio**, use the **Bui
 
 > **💡 Tip:** Check the `mod` package, which contains the majority of contributor modifications.
 
-Let me know if you need any further changes! 🚀
-## Contributing
+## 🚀 Contributing
 
-If you'd like to contribute to Sketchware Pro, follow these steps:
+We welcome contributions of any size, whether they are **new features, bug fixes, or UI improvements**. To contribute, follow these steps:
 
-1. Fork this repository.
-2. Make changes in your forked repository.
-3. Test out those changes.
-4. Create a pull request in this repository.
-5. Your pull request will be reviewed by the repository members and merged if accepted.
+1. **Fork** this repository.
+2. **Make changes** in your forked repository.
+3. **Test** your modifications thoroughly.
+4. **Create a pull request** in this repository.
+5. Your **pull request** will be reviewed, and if accepted, it will be merged.
 
-We welcome contributions of any size, whether they are major features or bug fixes, but please note that all contributions will be thoroughly reviewed.
+All contributions are thoroughly reviewed to ensure **stability and compatibility** with the launcher.
 
-### Commit Message
+---
 
-When you make changes to one or more files, you need to commit those changes with a commit message. Here are some guidelines:
+### ✅ Commit Message Guidelines
+When making changes, please use **clear and structured commit messages**. Here’s a guideline:
 
-- Keep the commit message short and detailed.
-- Use one of these commit types as a prefix:
-  - `feat:` for a feature, possibly improving something already existing.
-  - `fix:` for a fix, such as a bug fix.
-  - `style:` for features and updates related to styling.
-  - `refactor:` for refactoring a specific section of the codebase.
-  - `test:` for everything related to testing.
-  - `docs:` for everything related to documentation.
-  - `chore:` for code maintenance (you can also use emojis to represent commit types).
+- **`feat:`** For new features or improvements.
+- **`fix:`** For bug fixes.
+- **`style:`** For UI/UX improvements.
+- **`refactor:`** For code restructuring or optimization.
+- **`test:`** For testing-related changes.
+- **`docs:`** For documentation updates.
+- **`chore:`** For general maintenance tasks.
 
-Examples:
-- `feat: Speed up compiling with new technique`
-- `fix: Fix crash during launch on certain phones`
-- `refactor: Reformat code in File.java`
+#### 📌 Examples:
+- `feat: Added dark mode toggle`
+- `fix: Fixed crash on certain devices`
+- `refactor: Optimized taskbar performance`
+- `style: Improved Start Menu UI`
+- `docs: Updated README with new features`
 
-> [!IMPORTANT]
-> If you want to add new features that don't require editing other packages other than `pro.sketchware`, make your changes in `pro.sketchware` package, and respect the directories and files structure and names. Also, even though the project compiles just fine with Kotlin classes that you might add, try to make your changes or additions in Java, not Kotlin unless it is more than necessary.
+> **⚠️ Important:**  
+> - Keep new features within the **Hyper Droid - Project This PC** package to maintain code organization.  
+> - Although Kotlin is supported, please write changes **in Java** unless absolutely necessary.  
 
-## Thanks for Contributing
+---
 
-Thank you for contributing to Sketchware Pro! Your contributions help keep Sketchware Pro alive. Each accepted contribution will be noted down in the "About Team" activity. We'll use your GitHub name and profile picture initially, but they can be changed, of course.
+## 🙌 Thanks for Contributing!
+Your contributions help **enhance the Windows 11 experience on Android**.  
+Accepted contributors will be credited in the **About section** of the launcher. 🎉  
 
+---
 ## Discord
 
 Want to chat with us, discuss changes, or just hang out? We have a Discord server just for that.
