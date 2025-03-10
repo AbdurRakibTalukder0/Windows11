@@ -13,6 +13,8 @@ Here you'll find the **source code** for **Windows 11 Launcher** (Hyper Droid - 
 
 This launcher is designed to provide an **enhanced Windows 11-style experience on Android**, bringing **PC-like functionality** to mobile and tablet users.  
 
+---
+
 ##  Building the App
 To build this app, **Gradle** is required. It is highly recommended to use **Android Studio** for the best experience.  
 
@@ -84,9 +86,9 @@ When making changes, please use **clear and structured commit messages**. Here�
 
 ---
 
-## 🙌 Thanks for Contributing!
+##  Thanks for Contributing!
 Your contributions help **enhance the Windows 11 experience on Android**.  
-Accepted contributors will be credited in the **About section** of the launcher. 🎉  
+Accepted contributors will be credited in the **About section** of the launcher.   
 
 ---
 
