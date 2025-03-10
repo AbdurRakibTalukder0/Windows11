@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/AbdurRakibTalukder0/Windows11/refs/heads/root/Repo/images/windows11.png" style="width: 30%;" />
 </p>
 
-# Windows 11 Launcher
+# Windows 11
 [![GitHub contributors](https://img.shields.io/github/contributors/AbdurRakibTalukder0/Windows11)](https://github.com/AbdurRakibTalukder0/Windows11/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/AbdurRakibTalukder0/Windows11)](https://github.com/AbdurRakibTalukder0/Windows11/commits/)
 [![Total downloads](https://img.shields.io/github/downloads/AbdurRakibTalukder0/Windows11/total)](https://github.com/AbdurRakibTalukder0/Windows11/releases)
