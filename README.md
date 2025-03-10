@@ -8,34 +8,45 @@
 [![Total downloads](https://img.shields.io/github/downloads/AbdurRakibTalukder0/Windows11/total)](https://github.com/AbdurRakibTalukder0/Windows11/releases)
 [![Repository Size](https://img.shields.io/github/repo-size/AbdurRakibTalukder0/Windows11)](https://github.com/AbdurRakibTalukder0/Windows11)
 
-Welcome to Windows 11 Launcher! Here you'll find the source code of many classes in Windows 11 Launcher and, most importantly, the place to contribute to Windows 11 Launcher.
+# Welcome to Windows 11 Launcher!
+Here you'll find the **source code** for **Windows 11 Launcher** (Hyper Droid - Project This PC), along with the necessary resources to contribute to its development.  
 
-## Building the App
-To build the app, you must use Gradle. It's highly recommended to use Android Studio for the best experience.
+This launcher is designed to provide an **enhanced Windows 11-style experience on Android**, bringing **PC-like functionality** to mobile and tablet users.  
 
-There are two build variants with different features:
+## 🔧 Building the App
+To build this app, **Gradle** is required. It is highly recommended to use **Android Studio** for the best experience.  
 
-- `minApi26:` This variant supports exporting AABs from projects and compiling Java 1.8, 1.9, 10, and 11 code. However, it only works on Android 8.0 (O) and above.
-- `minApi21:` This variant can't produce AABs from projects and can only compile Java 1.7 code, but it supports Android 5 and above.
+### ⚙️ Build Variants
+There are two build variants with different features:  
 
-To select the appropriate build variant in Android Studio, use the Build Variants tab or use the appropriate Gradle build command.
+- **`minApi26:`**  
+  ✅ Supports **AAB exports**  
+  ✅ Can compile **Java 1.8, 1.9, 10, and 11**  
+  ❗ Works only on **Android 8.0 (Oreo) and above**  
 
-### Source Code Map
+- **`minApi21:`**  
+  ❌ **Cannot** produce AABs  
+  ✅ Supports **Java 1.7**  
+  ✅ Works on **Android 5.0 (Lollipop) and above**  
 
-| Class           | Role                                        |
-| --------------- | ------------------------------------------- |
-| `a.a.a.ProjectBuilder`      | Helper for compiling an entire project       |
-| `a.a.a.Ix`      | Responsible for generating AndroidManifest.xml |
-| `a.a.a.Jx`      | Generates source code of activities          |
-| `a.a.a.Lx`      | Generates source code of components, such as listeners, etc. |
-| `a.a.a.Ox`      | Responsible for generating XML files of layouts |
-| `a.a.a.qq`      | Registry of built-in libraries' dependencies |
-| `a.a.a.tq`      | Responsible for the compiling dialog's quizzes |
-| `a.a.a.yq`      | Organizes Sketchware projects' file paths    |
+To select the appropriate **build variant** in **Android Studio**, use the **Build Variants** tab or run the **Gradle** build command.
 
-> [!TIP]
-> You can also check the `mod` package, which contains the majority of contributors' changes.
+## 📂 Source Code Map
 
+| Class                  | Role                                          |
+|------------------------|----------------------------------------------|
+| `a.a.a.ProjectBuilder` | Compiles the entire project                  |
+| `a.a.a.Ix`            | Generates `AndroidManifest.xml`               |
+| `a.a.a.Jx`            | Generates source code for activities          |
+| `a.a.a.Lx`            | Generates source code for components (listeners, etc.) |
+| `a.a.a.Ox`            | Generates XML layout files                    |
+| `a.a.a.qq`            | Manages built-in library dependencies         |
+| `a.a.a.tq`            | Handles compilation dialogs                   |
+| `a.a.a.yq`            | Organizes project file paths                  |
+
+> **💡 Tip:** Check the `mod` package, which contains the majority of contributor modifications.
+
+Let me know if you need any further changes! 🚀
 ## Contributing
 
 If you'd like to contribute to Sketchware Pro, follow these steps:
