@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Sketchware-Pro.png" style="width: 30%;" />
+  <img src="/Windows11/refs/heads/root/Repo/images/windows11.png" style="width: 30%;" />
 </p>
 
 # Windows 11 Launcher
