@@ -21,12 +21,12 @@ To build this app, **Gradle** is required. It is highly recommended to use **And
 ### ⚙ Build Variants
 There are two build variants with different features:  
 
-- **`mini 1.0:`**  
+- **`full:`**  
   √ Supports **AAB exports**  
   √ Can compile **Java 1.8, 1.9, 10, and 11**  
   ! Works only on **Android 8.0 (Oreo) and above**  
 
-- **`minApi21:`**  
+- **`mini:`**  
   × **Cannot** produce AABs  
   √ Supports **Java 1.7**  
   √ Works on **Android 5.0 (Lollipop) and above**  
